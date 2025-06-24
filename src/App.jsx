@@ -9,6 +9,7 @@ import ExperienceMain from "./components/experienceSection/ExperienceMain";
 import EducationMain from "./components/educationSection/EducationMain";
 import ProjectsMain from "./components/projectsSection/ProjectsMain";
 import PublicationsMain from "./components/publicationsSection/PublicationsMain";
+import RecommendationsMain from "./components/recommendationsSection/RecommendationsMain";
 import ContactMeMain from "./components/contactMeSection/ContactMeMain";
 import FooterMain from "./components/footer/FooterMain";
 
@@ -26,6 +27,7 @@ function App() {
       <EducationMain />
       <ProjectsMain />
       <PublicationsMain />
+      <RecommendationsMain />
       <ContactMeMain />
       <FooterMain />
     </main>

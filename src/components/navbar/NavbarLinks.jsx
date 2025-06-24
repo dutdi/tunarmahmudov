@@ -25,6 +25,10 @@ const links = [
     link: "Publications",
     section: "publications",
   },
+  {
+    link: "Recommendations",
+    section: "recommendations",
+  },
 ];
 
 const NavbarLinks = () => {

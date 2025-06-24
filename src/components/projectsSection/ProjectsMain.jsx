@@ -9,7 +9,7 @@ const projects = [
     year: "Sep 2023 - Mar 2024",
     description:
       "Green Destination Recommender is a web-based application designed to promote responsible and sustainable tourism by providing personalized travel recommendations. It aligns users’ preferences—such as departure city, travel month, and interests—with eco-friendly destinations that prioritize environmental conservation and social well-being. The platform evaluates transport options (train, driving, flight) and factors like CO₂ emissions, seasonal suitability, destination popularity via Google Trends, and travel duration to suggest sustainable routes and locations. Integrated mapping and detailed destination information guide users toward choices that minimize ecological impact while enhancing local community benefits. This project underscores the balance between personalized travel experiences and sustainability goals, encouraging users to make environmentally conscious decisions aligned with responsible tourism principles.",
-    image: "//images/gdr.png",
+    image: "/tunarmahmudov/images/gdr.png",
     link: "https://gdr-demo.web.app/",
   },
   {

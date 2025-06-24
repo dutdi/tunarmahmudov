@@ -3,7 +3,7 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const HeroText = () => {
   return (
-    <div className="flex flex-col gap-4 h-full justify-center md:text-left sm:text-center">
+    <div className="flex flex-col gap-5 h-full justify-center md:text-left sm:text-center">
       <motion.h2
         variants={fadeIn("down", 0.2)}
         initial="hidden"
@@ -31,19 +31,19 @@ const HeroText = () => {
         className="text-lg mt-4 mb-8"
       >
         Merit graduate of <b>TUM (22nd worldwide)</b> with publications
-        <span className="hidden sm:inline">
+        <span className="sm:hidden md:inline">
           <br />
         </span>{" "}
         in <b>ACM and Springer JITT</b>. Creator of the internationally
-        <span className="hidden sm:inline">
+        <span className="sm:hidden md:inline">
           <br />
         </span>{" "}
         recognized <b>Green Destination Recommender</b>. Over 3 years of
-        <span className="hidden sm:inline">
+        <span className="sm:hidden md:inline">
           <br />
         </span>{" "}
         software engineering experience in <b>Germany</b>, delivering
-        <span className="hidden sm:inline">
+        <span className="sm:hidden md:inline">
           <br />
         </span>{" "}
         scalable, reliable full-stack solutions to real-world problems.

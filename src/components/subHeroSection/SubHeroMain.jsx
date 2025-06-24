@@ -13,7 +13,7 @@ const SubHeroMain = () => {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentIndex((prev) => (prev + 1) % texts.length);
-    }, 3000);
+    }, 2000);
     return () => clearInterval(interval);
   }, []);
 

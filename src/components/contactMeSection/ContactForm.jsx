@@ -37,7 +37,7 @@ const ContactForm = () => {
 
   return (
     <div>
-      <p className="text-blue">{success}</p>
+      <p className="text-blue mb-4">{success}</p>
       <form ref={form} onSubmit={sendEmail} className="flex flex-col gap-4">
         <input
           type="text"

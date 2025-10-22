@@ -16,7 +16,7 @@ const AboutMeText = () => {
       </p>
       <br />
       <p>
-        My technical toolkit includes Java, React, Node.js, AWS, and
+        My technical toolkit includes Java, Node.js, PostgreSQL, AWS, and
         cloud-native technologies, enabling me to build efficient, user-focused
         systems across diverse domains. From automating complex workflows to
         developing educational platforms impacting hundreds of students, I am

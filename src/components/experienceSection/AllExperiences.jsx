@@ -16,7 +16,7 @@ const experiences = [
     ],
   },
   {
-    job: "Full Stack Developer",
+    job: "Backend Developer",
     company: "Technical University of Munich | Germany",
     date: "2021",
     responsibilities: [
@@ -27,7 +27,7 @@ const experiences = [
     ],
   },
   {
-    job: "Full Stack Developer and Tutor",
+    job: "Backend Developer and Tutor",
     company: "Technical University of Munich | Germany",
     date: "2022 - 2023",
     responsibilities: [
@@ -38,7 +38,7 @@ const experiences = [
     ],
   },
   {
-    job: "Full Stack Developer",
+    job: "Backend Developer",
     company: "WeTheBrands | Munich, Germany",
     date: "2022 - 2024",
     responsibilities: [

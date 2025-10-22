@@ -20,7 +20,7 @@ const SkillsText = () => {
           <p>
             OOP, System Design, Software Design Patterns, Algorithms & Data
             Structures, RESTful API Design, Microservices Architecture, Agile
-            Development, Continuous Integration/Delivery
+            Development
           </p>
         </div>
         <div>
@@ -34,14 +34,14 @@ const SkillsText = () => {
         </div>
         <div>
           <h3 className="text-xl font-medium mb-2 underline">Cloud & DevOps</h3>
-          <p>AWS, Docker, Airflow, CI/CD (Bamboo, GitHub Actions), Git</p>
+          <p>AWS, Docker, Airflow, CI/CD, Git</p>
         </div>
 
         <div>
           <h3 className="text-xl font-medium mb-2 underline">
             Frameworks & Libraries
           </h3>
-          <p>React, React Native, Angular, Node.js, Spring Boot, Material UI</p>
+          <p>React, React Native, Node.js, Spring, Material UI</p>
         </div>
 
         <div>

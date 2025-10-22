@@ -11,7 +11,7 @@ const HeroText = () => {
         viewport={{ once: false, amount: 0 }}
         className="lg:text-2xl sm:text-xl  uppercase text-white "
       >
-        Software Engineer | Full-stack Web Developer
+        Software Engineer | Backend Developer
       </motion.h2>
       <motion.h1
         variants={fadeIn("right", 0.4)}
@@ -30,26 +30,35 @@ const HeroText = () => {
         viewport={{ once: false, amount: 0 }}
         className="text-lg mt-4 mb-8"
       >
-        Merit graduate of <b>TUM (22nd worldwide)</b> with publications
+        Software Engineer with 3 years of professional experience
         <span className="sm:hidden md:inline">
           <br />
         </span>{" "}
-        in <b>ACM and Springer JITT</b>. Creator of the internationally
+        in <b>Java, Node.js, PostgreSQL, and AWS.</b> Graduated with{" "}
+        <b>distinction</b>
         <span className="sm:hidden md:inline">
           <br />
         </span>{" "}
-        recognized <b>Green Destination Recommender</b>. Over 3 years of
+        from the Technical University of Munich (TUM), ranked{" "}
+        <b>22nd worldwide</b>
         <span className="sm:hidden md:inline">
           <br />
         </span>{" "}
-        software engineering experience in <b>Germany</b>, delivering
+        and <b>1st in Germany</b>, earning the highest thesis score with works
         <span className="sm:hidden md:inline">
           <br />
         </span>{" "}
-        scalable, reliable full-stack solutions to real-world problems.
+        published in <b>ACM and Springer Nature</b>, and presented
+        internationally.
       </motion.p>
     </div>
   );
 };
 
 export default HeroText;
+
+/*
+
+
+
+*/
